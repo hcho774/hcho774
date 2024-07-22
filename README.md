@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Hyun
-- 👀 I’m interested in Developing and Building great services and products with using React and Ruby on Rails!
-- 🌱 I’m currently learning Python!
+- 👀 Experienced full-stack developer adept in JavaScript, TypeScript, Nest.js, React, Next.js, SQL databases, and RESTful API design.
 
 - 📫 How to reach me - http://thedevhyun.com/
